@@ -1,6 +1,4 @@
-for (int i = 0; i < 5; i++)
-{
-    Console.Writeline("hello world");
-}
-string name;
-name = "zack";
+//What is abstract data type -- a "Class";
+//example is CRUD - create, read, update, delete;
+//Reperesention and Operation;
+
