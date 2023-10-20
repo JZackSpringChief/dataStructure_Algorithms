@@ -1,0 +1,1 @@
+Pokemon charmander = new Pokemon();
