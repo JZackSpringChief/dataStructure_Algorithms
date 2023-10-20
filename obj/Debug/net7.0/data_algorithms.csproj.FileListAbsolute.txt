@@ -1,0 +1,17 @@
+/Users/zackspringchief/Documents/Csharp/data_algorithms/bin/Debug/net7.0/data_algorithms
+/Users/zackspringchief/Documents/Csharp/data_algorithms/bin/Debug/net7.0/data_algorithms.deps.json
+/Users/zackspringchief/Documents/Csharp/data_algorithms/bin/Debug/net7.0/data_algorithms.runtimeconfig.json
+/Users/zackspringchief/Documents/Csharp/data_algorithms/bin/Debug/net7.0/data_algorithms.dll
+/Users/zackspringchief/Documents/Csharp/data_algorithms/bin/Debug/net7.0/data_algorithms.pdb
+/Users/zackspringchief/Documents/Csharp/data_algorithms/obj/Debug/net7.0/data_algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zackspringchief/Documents/Csharp/data_algorithms/obj/Debug/net7.0/data_algorithms.AssemblyInfoInputs.cache
+/Users/zackspringchief/Documents/Csharp/data_algorithms/obj/Debug/net7.0/data_algorithms.AssemblyInfo.cs
+/Users/zackspringchief/Documents/Csharp/data_algorithms/obj/Debug/net7.0/data_algorithms.csproj.CoreCompileInputs.cache
+/Users/zackspringchief/Documents/Csharp/data_algorithms/obj/Debug/net7.0/data_algorithms.dll
+/Users/zackspringchief/Documents/Csharp/data_algorithms/obj/Debug/net7.0/refint/data_algorithms.dll
+/Users/zackspringchief/Documents/Csharp/data_algorithms/obj/Debug/net7.0/data_algorithms.pdb
+/Users/zackspringchief/Documents/Csharp/data_algorithms/obj/Debug/net7.0/data_algorithms.genruntimeconfig.cache
+/Users/zackspringchief/Documents/Csharp/data_algorithms/obj/Debug/net7.0/ref/data_algorithms.dll
+/Users/zackspringchief/Documents/Csharp/data_algorithms/bin/Debug/net7.0/Dapper.dll
+/Users/zackspringchief/Documents/Csharp/data_algorithms/obj/Debug/net7.0/data_algorithms.csproj.AssemblyReference.cache
+/Users/zackspringchief/Documents/Csharp/data_algorithms/obj/Debug/net7.0/data_algorithms.csproj.CopyComplete
