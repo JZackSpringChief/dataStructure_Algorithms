@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PKmWtfWcaeeAlHJJIW+9/d6X6a5q9Cs0UU2Fh4yGNF/qSVkr1Y9pQWIcZJdWVPfTy/uiTtcC1wXTomWzo0Hn5Q==",
+  "dgSpecHash": "aitqFjUVgLp+sylfuO1ml5+7RZToRRAHFlD0PxLgyarcLPDV/FGuhs8fsNf9HCOLLwof/qunFD1YDGe7gjkriQ==",
   "success": true,
   "projectFilePath": "/Users/zackspringchief/Documents/Csharp/data_algorithms/data_algorithms.csproj",
   "expectedPackageFiles": [
-    "/Users/zackspringchief/.nuget/packages/dapper/2.1.15/dapper.2.1.15.nupkg.sha512"
+    "/Users/zackspringchief/.nuget/packages/dapper/2.1.15/dapper.2.1.15.nupkg.sha512",
+    "/Users/zackspringchief/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/zackspringchief/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/zackspringchief/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }
