@@ -30,7 +30,11 @@ public class Employee : Human
     public Employee(string name, int age, bool inschool) : base(name, age, inschool)
     {
     }
-    public int GetWage(int income, int tax)
+    public double SetTax(double tax)
+    {
+        return tax * 1.05;
+    }
+    public double GetWage(double income, double tax)
     {
         return income - tax;
     }
