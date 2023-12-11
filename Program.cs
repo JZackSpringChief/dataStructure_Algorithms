@@ -25,6 +25,11 @@ public class Human
     }
 }
 
+public interface Tax
+{
+    void getTax();
+    void returnTax();
+}
 public class Employee : Human
 {
     public Employee(string name, int age, bool inschool) : base(name, age, inschool)
@@ -37,5 +42,13 @@ public class Employee : Human
     public double GetWage(double income, double tax)
     {
         return income - tax;
+    }
+    public static string Search(string search)
+    {
+        for (int i = 0; i < search.Length; i++)
+        {
+            Console.WriteLine(i);
+        }
+        return "";
     }
 }
