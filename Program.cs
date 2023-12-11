@@ -24,3 +24,14 @@ public class Human
         Console.WriteLine("Destroy!!!");
     }
 }
+
+public class Employee : Human
+{
+    public Employee(string name, int age, bool inschool) : base(name, age, inschool)
+    {
+    }
+    public static void GetWage()
+    {
+
+    }
+}
