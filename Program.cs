@@ -30,8 +30,8 @@ public class Employee : Human
     public Employee(string name, int age, bool inschool) : base(name, age, inschool)
     {
     }
-    public static void GetWage()
+    public int GetWage(int income, int tax)
     {
-
+        return income - tax;
     }
 }
